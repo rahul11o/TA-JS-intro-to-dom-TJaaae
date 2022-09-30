@@ -5,7 +5,7 @@ default value to be "text" and return the input element inside label. (create it
 
 */
 
-// Your code goes here
+//
 
 // TEST
 createInputElm('Your name'); //<label>Your name: <input type="text"></label>
